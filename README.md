@@ -11,12 +11,22 @@
 
 **Phanela Aluoch**
 
-# Lights, Camera, Analytics: Exploring the Film Business
-### *Merging Storytelling with Statistics to Understand Movie Success*
+<div style="page-break-inside: avoid; text-align: center;">
 
-![pexels-brunomassao-2873486](https://github.com/user-attachments/assets/283b959b-1ebd-4bdb-9dab-19fec68190e1)
+  <h1>Lights, Camera, Analytics: Exploring the Film Business</h1>
+  <h3><em>Merging Storytelling with Statistics to Understand Movie Success</em></h3>
+
+
+  <img src="https://github.com/user-attachments/assets/f9cf95b6-48e7-40b2-809b-e8666f97610e"
+       alt="Banner"
+       style="height: 500px; margin-top: 10px; border-radius: 6px;" />
+
+</div>
+
+---
 
 ## **Introduction**
+
 ### **Statistical Data Analysis for Silverline Studios.**
 This project delves into the intricate world of cinema, uncovering patterns and insights that can guide our future business in film.
 We explore the factors that make a movie a box office hit. Using statistical techniques and visualizations, this project examines how genre, budget, runtime, and ratings work together to influence global film revenue.
@@ -224,3 +234,29 @@ Compare performance metrics across studios over time to identify strategic gaps 
 Analyze genre cycles and emerging trends using time series to anticipate future market shifts.
 
 ---
+# Repository Structure
+```
+Phase-2-Project-Moringa-School/
+|-- 📂 .ipynb_checkpoints/
+|   |-- EDA-checkpoint.ipynb
+|   |-- data_set-checkpoint.ipynb
+│-- 📂 DATA/
+|   |-- bom.movie_gross.csv
+|   |-- im.csv
+|   |-- movies.csv 
+│   │-- rt.movie_info.tsv       
+│   │-- rt.reviews.tsv 
+|   |-- tmdb.movies.csv
+|   |-- tn.movie_budgets.csv      
+│-- 📂 anaconda_projects/db/
+│   │-- project_filebrowser.db       
+|-- .gitignore 
+|-- README.md           
+│-- data_set.ipynb 
+|-- index.ipynb
+|-- studio.ipynb
+|-- total_gross.ipynb
+|-- github.pdf
+|-- notebook.pdf
+|-- presentation.pdf           
+```
