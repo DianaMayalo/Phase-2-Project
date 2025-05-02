@@ -49,9 +49,9 @@ This project is designed to provide data-driven answers to key business question
 ---
 
 ## Business Objectives
-1: Analyze the relationship between total gross revenue and other key factors, such as budget, genre, runtime, and user ratings, to determine which variables most significantly impact a movie’s overall financial performance.
-2: Competition & Niche Analysis: How are studios fairing, what are they focusing on, and how are they performing, and what genres have been neglected but are worth exploring, based on multiple factors.
-3: Analyze yearly trends in key movie performance metrics, such as global revenue, budget, genre popularity, and average ratings, to identify patterns and correlations that can inform strategic decisions over time. 
+1. Analyze the relationship between total gross revenue and other key factors, such as budget, genre, runtime, and user ratings, to determine which variables most significantly impact a movie’s overall financial performance.
+2. Competition & Niche Analysis: How are studios fairing, what are they focusing on, and how are they performing, and what genres have been neglected but are worth exploring, based on multiple factors.
+3. Analyze yearly trends in key movie performance metrics, such as global revenue, budget, genre popularity, and average ratings, to identify patterns and correlations that can inform strategic decisions over time. 
 
 ---
 
