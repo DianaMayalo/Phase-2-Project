@@ -17,7 +17,8 @@
 ![pexels-brunomassao-2873486](https://github.com/user-attachments/assets/283b959b-1ebd-4bdb-9dab-19fec68190e1)
 
 ## **Introduction**
-Statistical Data Analysis for Silverline Studios. This project delves into the intricate world of cinema, uncovering patterns and insights that can guide our future business in film.
+### **Statistical Data Analysis for Silverline Studios.**
+This project delves into the intricate world of cinema, uncovering patterns and insights that can guide our future business in film.
 We explore the factors that make a movie a box office hit. Using statistical techniques and visualizations, this project examines how genre, budget, runtime, and ratings work together to influence global film revenue.
 This analysis will help our new studio make informed decisions about venturing into film, ensuring that we create films that resonate with audiences and achieve commercial success.
 
@@ -27,17 +28,23 @@ This project analyzes movie industry data to uncover what drives box office succ
 ---
 
 ## Business Understanding
-The film industry is risky but rewarding. Production decisions like genre, budget, and target audience can make or break a movie's financial success. For us as Silverline Studios entering this competitive landscape, data driven decisions must be made, not guesswork, to ensure an edge over competitors and overall commercial success.
+The film industry is risky but rewarding. Production decisions like genre, budget, and target audience can make or break a movie's financial success. For us as Silverline Studios entering this competitive landscape, data-driven decisions must be made, not guesswork, to ensure an edge over competitors and overall commercial success.
 
 This project is designed to provide data-driven answers to key business questions:
 
-Which genres consistently deliver the highest global revenue?
-Does runtime affect audience rating, total gross, and if so by how much, and what can we learn from it?
-Does marketing and popularity directly correlate with total_gross, and if so, how can we exploit this to our advantage?
-Can we predict the total gross of a movie based on its genre? Use this information to target high grossing genres.
-How is our competition? Which studios are on an upward trend that we can confirm? What can we emulate from the coninued success?
-Do indie and major studios, having different financial levels of muscle, have significantly different average_ratings? If so how do we position ourselves to be competitive in the market?
-The goal of analyzing historical movie data and applying statistical techniques is to equip the studio with actionable insights that reduce risk, maximize profit potential, and guide smarter production investments.
+- Which genres consistently deliver the highest global revenue?
+
+- Does runtime affect audience rating, total gross, and if so, by how much, and what can we learn from it?
+
+- Does marketing and popularity directly correlate with total_gross, and if so, how can we exploit this to our advantage?
+
+- Can we predict the total gross of a movie based on its genre? Use this information to target high grossing genres.
+
+- How is our competition? Which studios are on an upward trend that we can confirm? What can we emulate from the continued success?
+
+- Do indie and major studios, having different financial levels of muscle, have significantly different average_ratings? If so, how do we position ourselves to be competitive in the market?
+
+- The goal of analyzing historical movie data and applying statistical techniques is to equip the studio with actionable insights that reduce risk, maximize profit potential, and guide smarter production investments.
 
 ---
 
@@ -54,7 +61,7 @@ In a competitive and risky industry, this analysis provides a **data-backed foun
 ---
 
 ## Project Synopsis
-In the dynamic realm of filmmaking, understanding the elements that contribute to a movie's success is paramount. This analysis aims to dissect various facets of movies—ranging from genres and budgets to runtimes and ratings, to identify trends and correlations that can inform strategic decisions in movie production and distribution.
+In the dynamic realm of filmmaking, understanding the elements that contribute to a movie's success is paramount. This analysis aims to dissect various facets of movies, ranging from genres and budgets to runtimes and ratings, to identify trends and correlations that can inform strategic decisions in movie production and distribution.
 
 ---
 
@@ -158,7 +165,7 @@ This should advice our marketing branding teams to study their promotion strateg
 
 ### Top-Rated Movie Lengths
 There is a statistically significant but weak correlation between runtime category and ratings
-Since shorter films are rated higher, the difference is not substantial enough to warrant a focus on runtime. Instead, we should focus really significant factors
+Since shorter films are rated higher, the difference is not substantial enough to warrant a focus on runtime. Instead, we should focus on significant factors
 
 ![download](https://github.com/user-attachments/assets/8901b082-b878-425f-89c0-10b8e2d1c244)
 
