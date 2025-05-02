@@ -240,7 +240,6 @@ Phase-2-Project-Moringa-School/
 |-- 📂 .ipynb_checkpoints/
 |   |-- EDA-checkpoint.ipynb
 |   |-- data_set-checkpoint.ipynb
-
 │-- 📂 DATA/
 |   |-- bom.movie_gross.csv
 |   |-- im.csv
@@ -249,7 +248,6 @@ Phase-2-Project-Moringa-School/
 │   │-- rt.reviews.tsv 
 |   |-- tmdb.movies.csv
 |   |-- tn.movie_budgets.csv      
-
 │-- 📂 anaconda_projects/db/
 │   │-- project_filebrowser.db       
 |-- .gitignore 
