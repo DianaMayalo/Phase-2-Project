@@ -18,7 +18,7 @@
 
   <img src="https://github.com/user-attachments/assets/283b959b-1ebd-4bdb-9dab-19fec68190e1"
        alt="Banner"
-       style="max-width: 100%; max-height: 300px; border-radius: 8px; margin-top: 10px;" />
+       style="max-height: 140px; width: auto; margin-top: 10px; border-radius: 6px;" />
 
 </div>
 
