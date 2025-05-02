@@ -11,12 +11,21 @@
 
 **Phanela Aluoch**
 
-# Lights, Camera, Analytics: Exploring the Film Business
-### *Merging Storytelling with Statistics to Understand Movie Success*
+<div style="page-break-inside: avoid; text-align: center;">
 
-![pexels-brunomassao-2873486](https://github.com/user-attachments/assets/283b959b-1ebd-4bdb-9dab-19fec68190e1)
+  <h1>Lights, Camera, Analytics: Exploring the Film Business</h1>
+  <h3><em>Merging Storytelling with Statistics to Understand Movie Success</em></h3>
+
+  <img src="https://github.com/user-attachments/assets/283b959b-1ebd-4bdb-9dab-19fec68190e1"
+       alt="Banner"
+       style="max-width: 100%; max-height: 300px; border-radius: 8px; margin-top: 10px;" />
+
+</div>
+
+---
 
 ## **Introduction**
+
 ### **Statistical Data Analysis for Silverline Studios.**
 This project delves into the intricate world of cinema, uncovering patterns and insights that can guide our future business in film.
 We explore the factors that make a movie a box office hit. Using statistical techniques and visualizations, this project examines how genre, budget, runtime, and ratings work together to influence global film revenue.
