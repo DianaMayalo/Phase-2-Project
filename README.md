@@ -16,9 +16,10 @@
   <h1>Lights, Camera, Analytics: Exploring the Film Business</h1>
   <h3><em>Merging Storytelling with Statistics to Understand Movie Success</em></h3>
 
-  <img src="https://github.com/user-attachments/assets/283b959b-1ebd-4bdb-9dab-19fec68190e1"
+
+  <img src="https://github.com/user-attachments/assets/f9cf95b6-48e7-40b2-809b-e8666f97610e"
        alt="Banner"
-       style="max-height: 140px; width: auto; margin-top: 10px; border-radius: 6px;" />
+       style="height: 500px; margin-top: 10px; border-radius: 6px;" />
 
 </div>
 
