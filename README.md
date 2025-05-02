@@ -252,11 +252,11 @@ Phase-2-Project-Moringa-School/
 │   │-- project_filebrowser.db       
 |-- .gitignore 
 |-- README.md           
-│-- data_set.ipynb 
+│-- data_set.ipynb
+|-- github.pdf  
 |-- index.ipynb
 |-- notebook.pdf
 |-- presentation.pdf
 |-- studio.ipynb
-|-- total_gross.ipynb
-|-- github.pdf          
+|-- total_gross.ipynb        
 ```
