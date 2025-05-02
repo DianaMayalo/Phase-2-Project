@@ -234,3 +234,27 @@ Compare performance metrics across studios over time to identify strategic gaps 
 Analyze genre cycles and emerging trends using time series to anticipate future market shifts.
 
 ---
+# Repository Structure
+
+Phase-2-Project-Moringa-School/
+|-- 📂 .ipynb_checkpoints/
+|   |-- EDA-checkpoint.ipynb
+|   |-- data_set-checkpoint.ipynb
+
+│-- 📂 DATA/
+|   |-- bom.movie_gross.csv
+|   |-- im.csv
+|   |-- movies.csv 
+│   │-- rt.movie_info.tsv       
+│   │-- rt.reviews.tsv 
+|   |-- tmdb.movies.csv
+|   |-- tn.movie_budgets.csv      
+
+│-- 📂 anaconda_projects/db/
+│   │-- project_filebrowser.db       
+|-- .gitignore 
+|-- README.md           
+│-- data_set.ipynb 
+|-- index.ipynb
+|-- studio.ipynb
+|-- total_gross.ipynb            
