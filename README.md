@@ -255,5 +255,8 @@ Phase-2-Project-Moringa-School/
 │-- data_set.ipynb 
 |-- index.ipynb
 |-- studio.ipynb
-|-- total_gross.ipynb            
+|-- total_gross.ipynb
+|-- github.pdf
+|-- notebook.pdf
+|-- presentation.pdf           
 ```
