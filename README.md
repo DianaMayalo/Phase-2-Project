@@ -235,7 +235,7 @@ Analyze genre cycles and emerging trends using time series to anticipate future 
 
 ---
 # Repository Structure
-
+```
 Phase-2-Project-Moringa-School/
 |-- 📂 .ipynb_checkpoints/
 |   |-- EDA-checkpoint.ipynb
@@ -258,3 +258,4 @@ Phase-2-Project-Moringa-School/
 |-- index.ipynb
 |-- studio.ipynb
 |-- total_gross.ipynb            
+```
